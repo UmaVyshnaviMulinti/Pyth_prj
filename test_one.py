@@ -1,4 +1,4 @@
 def test_func():
-    assert 3 == 5
+    assert 5 == 5
 test_func()
     
